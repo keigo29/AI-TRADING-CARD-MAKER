@@ -1,0 +1,5 @@
+{
+  "name": "Original Trading Card Generator_v2",
+  "description": "An application that allows users to upload their facial photos and use AI image generation technology to create original trading cards of themselves stylized as various characters.",
+  "requestFramePermissions": []
+}
